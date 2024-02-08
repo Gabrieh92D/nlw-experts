@@ -60,7 +60,7 @@ const perguntas = [
       "Nagato",
       "Pain",
     ],
-    correta: 2
+    correta: 1
   },
   {
     pergunta: "Qual é o nome do pai de Naruto?",
