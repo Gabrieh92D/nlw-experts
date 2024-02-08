@@ -1,4 +1,4 @@
-const perguntasNaruto = [
+const perguntas = [
   {
     pergunta: "Qual é o nome do protagonista de Naruto?",
     resposta: [
