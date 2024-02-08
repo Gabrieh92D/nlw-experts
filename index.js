@@ -78,7 +78,7 @@ const perguntas = [
       "Dor",
       "Ódio",
     ],
-    correta: 1
+    correta: 0
   },
   {
     pergunta: "Qual é o exame que os ninjas devem passar para se tornarem Chunin?",
